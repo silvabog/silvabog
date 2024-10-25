@@ -1,4 +1,4 @@
-<p align= "center">![MasterHead](https://media1.tenor.com/m/enLBClxEcWMAAAAC/spongebob-technology.gif)(github.com/silvabog) </p>
+![MasterHead](https://media1.tenor.com/m/enLBClxEcWMAAAAC/spongebob-technology.gif)(github.com/silvabog)
 <h1 align="center">Hi, I'm Gabriel Silva</h1>
 <h3 align="center">I'm an IT student</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
