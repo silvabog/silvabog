@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Gabriel Silva</h1>
-<h3 align="center">I'm an IT student</h3>
 
 
 -  I’m currently an IT student
